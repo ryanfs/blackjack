@@ -1,3 +1,0 @@
-# Let us know...
-
-### Feedback is really helpful to our process, so if you have a moment, please tell us what you think of our app [@SitedropApp](http://twitter.com/sitedropapp)

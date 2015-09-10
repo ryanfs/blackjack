@@ -1,1 +1,0 @@
-# Below are some examples of how Sitedrop handles various file types.
